@@ -121,12 +121,12 @@ const config = {
 //            items: [
 //              {
 //                label: 'GitHub',
-//                href: 'https://github.com/tehciaktm/alsys_playbook',
+//                href: 'https://github.com/tehciaktm/alsys_admin_playbook',
 //              },
 //            ],
 //          },
         ],
-        // copyright: `Copyright © ${new Date().getFullYear()} Alsys Team, Built with Docusaurus for Alsys Ltd.`,
+
         copyright: `© Copyright - Alsys Ltd. All rights reserved`,
       },
       prism: {
