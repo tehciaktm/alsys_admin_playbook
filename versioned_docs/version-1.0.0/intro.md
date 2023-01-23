@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+displayed_sidebar: adminapp
 ---
 
 # Introduction
@@ -8,6 +9,6 @@ sidebar_position: 0
 
 Alsys Connect is a one user-friendly app package for Remote onboarding, Health & Safety and Personnel Management
 
-import alsys_intro from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbooks/static/img/alsys_intro.png';
+import alsys_intro from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/alsys_intro.png';
 
 <img src={alsys_intro} alt="alsys_intro" width="800"/>

@@ -70,6 +70,20 @@ const config = {
           {
             type: 'docsVersionDropdown',
           },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            sidebarId: 'Alsys Admin',
+            label: 'Alsys Admin',
+          },
+          {
+            type: 'doc',
+            docId: 'introuser',
+            position: 'left',
+            sidebarId: 'Alsys Connect',
+            label: 'Alsys Connect',
+          },
           //{to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
