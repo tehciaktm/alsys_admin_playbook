@@ -21,7 +21,7 @@ Building trust with the organization enrolled.
 * An email and account password
 * Personal details.
 
-import kyc0 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/kyc0.png';
+import kyc0 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/kyc0.png';
 
 <img src={kyc0} alt="kyc0" width="800"/>
 
@@ -29,7 +29,7 @@ import kyc0 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playboo
 
 3. If the user did not receive an invitation and still proceeds with the registration, he will be asked to contact the organization to receive a link to continue with the onboarding.
 
-import company from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/company.png';
+import company from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/company.png';
 
 <img src={company} alt="company" width="800"/>
 

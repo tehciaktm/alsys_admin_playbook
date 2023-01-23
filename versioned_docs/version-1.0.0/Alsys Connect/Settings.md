@@ -13,6 +13,6 @@ Display settings: Light/Dark Mode
 
 Languages: languages list
 
-import usersettings from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/usersettings.png';
+import usersettings from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/usersettings.png';
 
 <img src={usersettings} alt="usersettings"/>

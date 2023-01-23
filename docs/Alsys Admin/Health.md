@@ -8,7 +8,7 @@ sidebar_position: 3
 
 1. Access the Health tab in the main menu.
 
-import health1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/health_comp.png';
+import health1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/health_comp.png';
 
 <img src={health1} alt="health1" />
 
@@ -21,7 +21,7 @@ import health1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_play
 
 
 
-import health2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/health2.png';
+import health2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/health2.png';
 
 <img src={health2} alt="health2" />
 
@@ -31,7 +31,7 @@ import health2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_play
 
 5. When the list is completed, the admin will tap on the "Publish" button.
 
-import health3 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/health3.png';
+import health3 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/health3.png';
 
 <img src={health3} alt="health3" />
 

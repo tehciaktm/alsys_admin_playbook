@@ -8,7 +8,7 @@ sidebar_position: 6
 
 With the help of this feature, admins can track working hours for each user and generate reports which can be exported as pdf and csv or sent to email.
 
-import tna1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/tna1.png';
+import tna1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/tna1.png';
 
 <img src={tna1} alt="tna1" />
 
@@ -19,7 +19,7 @@ Filters are used for generating Time & Attendance custom reports. In the top sec
 * The "Device / Location" dropdown contains all the locations available in the organization.
 * The "User" dropdown facilitates choosing certain users from the "User Group" or all users from the same user group.
 
-import tna2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/tna2.png';
+import tna2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/tna2.png';
 
 <img src={tna2} alt="tna2" />
 
@@ -30,7 +30,7 @@ import tna2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playboo
 * Generate data based on a time frame by selecting the date-picker in the top right input.
 * After the filters are set, the data will be exported by tapping on the “Export” button.
 
-import tna3 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/tna3.png';
+import tna3 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/tna3.png';
 
 <img src={tna3} alt="tna3" />
 

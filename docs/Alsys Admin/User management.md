@@ -16,7 +16,7 @@ sidebar_position: 2
 * Trade (Carpenter, Site foreman, Operative)
 3. Save the user's information to add them to the app by pressing the "Send invitation" button.
 
-import inviteusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/inviteusers.png';
+import inviteusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/inviteusers.png';
 
 <img src={inviteusers} alt="inviteusers" />
 
@@ -28,7 +28,7 @@ import inviteusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_
 * Take a picture of a user
 3. Save the updated information to apply the changes.
 
-import editusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/editusers.png';
+import editusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/editusers.png';
 
 <img src={editusers} alt="editusers" />
 
@@ -37,11 +37,11 @@ import editusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_pl
 2. Select the "Reject" button to remove the user from the organisation.
 3. The user will be moved to "Inactive" tab and can be restored or completely deleted from the database.
 
-import rejectactive from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/activereject.png';
+import rejectactive from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/activereject.png';
 
 <img src={rejectactive} alt="rejectactive" />
 
-import Usersinactive from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/activeusers.png';
+import Usersinactive from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/activeusers.png';
 
 <img src={Usersinactive} alt="Usersinactive" />
 
@@ -50,7 +50,7 @@ import Usersinactive from '/Users/tehciaktm/Documents/github_projects/alsys_admi
 2. The app will display a list of the user's general information, a profile picture, Inducted or not, and will keep a record of every Health Entry, allowing you to see the health trends over time.
 3. The Entry History is displayed by default when viewing the user.
 
-import healthstatus from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/healthusers.png';
+import healthstatus from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/healthusers.png';
 
 <img src={healthstatus} alt="healthstatus" />
 

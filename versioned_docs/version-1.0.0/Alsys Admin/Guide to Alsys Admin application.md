@@ -14,7 +14,7 @@ sidebar_position: 1
 #### Registration
 As an admin, you do not require to register, but you still get an invitation from a Super Admin. You will receive a password to associate with your email account invited to the organisation.
 
-import admin_invite from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/admin_invite.png';
+import admin_invite from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/admin_invite.png';
 
 <img src={admin_invite} alt="admin_invite" />
 
@@ -26,7 +26,7 @@ import admin_invite from '/Users/tehciaktm/Documents/github_projects/alsys_admin
 If you already have an account, enter your email address and password on the login screen.
 Select "Sign in with email" to access your account.
 
-import login from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/signin.png';
+import login from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/signin.png';
 
 <img src={login} alt="login" />
 
@@ -40,7 +40,7 @@ You can log out of Alsys Admin from your tablet or website.
 #### Dashboard
 Explore the features and functions of the app by starting with the Dashboard
 
-import DASHBOARD from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/Dashboard.png';
+import DASHBOARD from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/Dashboard.png';
 
 <img src={DASHBOARD} alt="DASHBOARD" />
 

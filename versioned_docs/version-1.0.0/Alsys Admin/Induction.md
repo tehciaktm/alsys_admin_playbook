@@ -20,19 +20,19 @@ Whether the admin wants to create a General or a Specific Induction, the process
 
 1. Tap on Induction tab in the navigation drawer in Admin Application.
 
-import ind1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/ind1.png';
+import ind1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/ind1.png';
 
 <img src={ind1} alt="ind1" />
 
  2. Tap on the "+" button in the top right corner to add a new Induction.
 
-import ind2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/ind2.png';
+import ind2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/ind2.png';
 
 <img src={ind2} alt="ind2" />
 
  3. Switch between General and Specific Induction.
 
-import ind3 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/ind3.png';
+import ind3 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/ind3.png';
 
 <img src={ind3} alt="ind3" />
 
@@ -42,7 +42,7 @@ import ind3 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playboo
 
  6. The induction will be sent to all the users from a specific location (for specific induction) and to all existing users in the organization (for general induction).
 
-import ind4 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/ind4.png';
+import ind4 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/ind4.png';
 
 <img src={ind4} alt="ind4" />
 
