@@ -9,7 +9,7 @@ const config = {
   title: 'Welcome to Alsys Playbook',
   tagline: 'by Alsys LTD',
   url: 'https://tehciaktm.github.io',
-  baseUrl: '/alsys_admin_playbook_menu_cards/',
+  baseUrl: '/alsys_admin_playbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'tehciaktm', // Usually your GitHub org/user name.
-  projectName: 'alsys_admin_playbook_menu_cards', // Usually your repo name.
+  projectName: 'alsys_admin_playbook', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -69,6 +69,20 @@ const config = {
         items: [
           {
             type: 'docsVersionDropdown',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            sidebarId: 'Alsys Admin',
+            label: 'Alsys Admin',
+          },
+          {
+            type: 'doc',
+            docId: 'introuser',
+            position: 'left',
+            sidebarId: 'Alsys Connect',
+            label: 'Alsys Connect',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
         ],

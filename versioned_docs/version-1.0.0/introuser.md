@@ -1,7 +1,8 @@
 ---
 sidebar_position: 0
-displayed_sidebar: adminapp
+displayed_sidebar: userapp
 ---
+
 
 # Introduction
 
