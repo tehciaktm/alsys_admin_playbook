@@ -6,7 +6,7 @@ displayed_sidebar: userapp
 
 # Introduction
 
-## Remote onboarding, Health & Safety and Personnel Management
+<h3>Remote Onboarding, Health & Safety and Personnel Management</h3>
 
 Alsys Connect is a one user-friendly app package for Remote onboarding, Health & Safety and Personnel Management
 
