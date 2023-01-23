@@ -91,15 +91,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Alsys Admin',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Websites',
             items: [
               {

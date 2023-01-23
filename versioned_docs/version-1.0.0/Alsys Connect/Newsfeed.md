@@ -13,12 +13,12 @@ import newsf1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playb
 
 <img src={newsf1} alt="newsf1" width="700"/>
 
-### <font color="gray">How to confirm a post?</font>
+<h6><font color="gray">How to confirm a post?</font></h6>
 
-1. Post confirmation requires reviewing all the files attached. The most important file attached is the one displayed under the title and has the “Open document” button on it.
-2. When all the attachments were reviewed, the “Confirm” button will become active.
-3. After making sure all the documents were reviewed, the user can tap on the active “Confirm” button.
-4. If the admin set a questionnaire for the post, it will be displayed after tapping on confirmation button.
+ 1. Post confirmation requires reviewing all the files attached. The most important file attached is the one displayed under the title and has the “Open document” button on it.
+ 2. When all the attachments were reviewed, the “Confirm” button will become active.
+ 3. After making sure all the documents were reviewed, the user can tap on the active “Confirm” button.
+ 4. If the admin set a questionnaire for the post, it will be displayed after tapping on confirmation button.
 
 import newsf2 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/newsf2.png';
 
