@@ -77,15 +77,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Alsys Admin',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Websites',
             items: [
               {
@@ -103,7 +94,7 @@ const config = {
 //            items: [
 //              {
 //                label: 'GitHub',
-//                href: 'https://github.com/tehciaktm/alsys_admin_playbook_menu_cards',
+//                href: 'https://github.com/tehciaktm/alsys_admin_playbook',
 //              },
 //            ],
 //          },

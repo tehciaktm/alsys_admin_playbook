@@ -4,7 +4,7 @@ sidebar_position: 6
 
 
 
-<h6><font color="gray">Newsfeed post categories: Toolbox Talks, RAMS, Training</font></h6>
+### <font color="gray">Newsfeed post categories: Toolbox Talks, RAMS, Training</font>
 
 Newsfeed posts are distributed, depending on their content, in these three categories which can be found on the Home screen in the User Application. 
 The structure of the posts is the same, only the content differs based on what files and information admins attach to them. 
@@ -13,7 +13,7 @@ import newsf1 from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playb
 
 <img src={newsf1} alt="newsf1" width="700"/>
 
-<h6><font color="gray">How to confirm a post?</font></h6>
+### <font color="gray">How to confirm a post?</font>
 
  1. Post confirmation requires reviewing all the files attached. The most important file attached is the one displayed under the title and has the “Open document” button on it.
  2. When all the attachments were reviewed, the “Confirm” button will become active.

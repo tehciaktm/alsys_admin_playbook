@@ -4,7 +4,7 @@ sidebar_position: 5
 
 
 
-<h6><font color="gray">Health section as part of the Onboarding</font></h6>
+### <font color="gray">Health section as part of the Onboarding</font>
 
 1. New users install the User Application for the first time after they got invited into an organization and accept the invitation.
 2. They will go through the Onboarding (Induction and Health).
@@ -16,7 +16,7 @@ import healthsts from '/Users/tehciaktm/Documents/github_projects/alsys_admin_pl
 
 <img src={healthsts} alt="healthsts" width="700"/>
 
-<h6><font color="gray">Health section in Home screen</font></h6>
+### <font color="gray">Health section in Home screen</font>
 
 When an update is being made, the user is notified and on the Home screen is displayed a notification badge, which will disappear when the user will complete the updated Health Section.
 

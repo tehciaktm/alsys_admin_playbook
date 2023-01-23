@@ -4,7 +4,7 @@ sidebar_position: 7
 
 
 
-<h6><font color="gray">What is the Induction section?</font></h6>
+### <font color="gray">What is the Induction section?</font>
 
 The Induction section contains important information about the organization and its health and safety measures that are mandatory for each user.
 
