@@ -21,7 +21,7 @@ Press the edit button on the right of each text information, change and save the
 * Name
 * Email address
 
-import profile from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/profile.png';
+import profile from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/profile.png';
 
 <img src={profile} alt="profile" width="700"/>
 

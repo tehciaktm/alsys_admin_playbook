@@ -1,14 +1,13 @@
 ---
 sidebar_position: 0
-displayed_sidebar: adminapp
 ---
 
-# Alsys Admin
+# Introduction
 
-Admins have management roles in all the features used by their employees in Alsys Connect, through the Alsys Admin.
-* View Event Logs
-* Organize teams and locations
-* Prepare templates for reports and permits
-* Send important updates
-* Track working hours
-* Organize the Onboarding Induction & Health sections for their employees.
+## Remote onboarding, Health & Safety and Personnel Management
+
+Alsys Connect is a one user-friendly app package for Remote onboarding, Health & Safety and Personnel Management
+
+import alsys_intro from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/alsys_intro.png';
+
+<img src={alsys_intro} alt="alsys_intro" width="800"/>

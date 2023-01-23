@@ -8,7 +8,7 @@ sidebar_position: 1
 
 1. Receive an invitation into the organisation via email.
 
-import userinvited from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/userinvited.png';
+import userinvited from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/userinvited.png';
 
 <img src={userinvited} alt="userinvited" width="800"/>
 
@@ -20,7 +20,7 @@ import userinvited from '/Users/tehciaktm/Documents/github_projects/alsys_admin_
 
 5. Sign up by adding an account email and password.
 
-import signupusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/signupuser.png';
+import signupusers from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/signupuser.png';
 
 <img src={signupusers} alt="signupusers" width="800"/>
 

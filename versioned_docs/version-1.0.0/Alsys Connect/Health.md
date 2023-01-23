@@ -12,7 +12,7 @@ sidebar_position: 5
 4. There aren't any correct or incorrect answers.
 5. All of them will be saved in the User Details in the Admin Application for later review.
 
-import healthsts from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/healthsts.png'
+import healthsts from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/healthsts.png'
 
 <img src={healthsts} alt="healthsts" width="700"/>
 
@@ -20,6 +20,6 @@ import healthsts from '/Users/tehciaktm/Documents/github_projects/alsys_admin_pl
 
 When an update is being made, the user is notified and on the Home screen is displayed a notification badge, which will disappear when the user will complete the updated Health Section.
 
-import healthhome from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook/static/img/healthhome.png'
+import healthhome from '/Users/tehciaktm/Documents/github_projects/alsys_admin_playbook_menu_cards/static/img/healthhome.png'
 
 <img src={healthhome} alt="healthhome" width="500"/>
