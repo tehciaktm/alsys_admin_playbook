@@ -8,8 +8,7 @@ sidebar_position: 3
 
 Tapping on the Profile button from the Home menu or any other screen where the bottom menu is present you can:
 
- 1. Upload or update your Profile picture
-
+1. Upload or update your Profile picture
 * if you work in an organisation where biometrics are available you will only have the option to Upload a picture by taking a picture with the camera
 * if the camera on your mobile device is not working, the admin can take a picture from his admin device and set it up instead.
 
